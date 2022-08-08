@@ -17,6 +17,20 @@
 dag图形: butterfly-dag
 
 
+## 图表
+echarts: echarts
+
+
+## 动画和游戏
+
+### css动画
+
+animate.js
+
+### js
+pixi.js
+create.js
+
 
 ## 工具链
 webpack webpack-cli: 打包工具
