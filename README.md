@@ -45,6 +45,6 @@ create.js
 ## 工具链
 webpack webpack-cli: 打包工具
 
-typescript
+mocker-api: webpack模拟api工具  [https://github.com/jaywcjlove/mocker-api]
 
 
