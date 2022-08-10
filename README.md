@@ -47,4 +47,6 @@ webpack webpack-cli: 打包工具
 
 mocker-api: webpack模拟api工具  [https://github.com/jaywcjlove/mocker-api]
 
+滚动跑马灯组件: vue3-marquee  [https://www.npmjs.com/package/vue3-marquee]
+
 
