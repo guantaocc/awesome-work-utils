@@ -2,57 +2,57 @@
 常见开源库合集
 
 ## vue组件
-虚拟表格: vue-virtual-table  [https://github.com/waningflow/vue-virtual-table]
+vue-virtual-table[https://github.com/waningflow/vue-virtual-table]:  vue虚拟表格组件
 
-表单封装: @formily/vue
+formily: 阿里巴巴开源的超级表单设计方案 
 
 
 ## 相关库
-图片裁剪库: vue-cropper
+vue-cropper:  图片裁剪库 
 
-工具函数:  lodash
+lodash/underscore: 常见工具函数 
 
-发布订阅:  pubsub-js
+pubsub-js: 发布订阅
 
-dag图形: butterfly-dag
+butterfly-dag: 阿里巴巴小蝴蝶canvas流程图组件 
 
 
 ## 图表
 
-antv
+antv: 蚂蚁图表库
 
-echarts: echarts
+echarts: Apache开源图表项目
+
+highcharts: 有基于3D版本的高性能图表库
 
 ## 富文本编辑器
 
-vue-quill-editor
+vue-quill-editor: quill富文本
 
-wangEditor
+wangEditor: 国内的开源富文本编辑器
 
 
-## 动画和游戏
+## 动画
 
-### css动画
+animate.js: 纯css动画库
 
-animate.js
+volocity.js: js动画库
 
-### js
-pixi.js
+pixi.js: 
 
-create.js
+create.js: 简单动画创建库
 
 
 ## 工具链
-webpack webpack-cli: 打包工具
 
-mocker-api: webpack模拟api工具  [https://github.com/jaywcjlove/mocker-api]
+mocker-api[https://github.com/jaywcjlove/mocker-api]: webpack模拟api工具  
 
-滚动跑马灯组件: vue3-marquee  [https://www.npmjs.com/package/vue3-marquee]
+滚动跑马灯组件[https://www.npmjs.com/package/vue3-marquee]: vue3-marquee  
 
 ## 流程图
 jsPlumb [https://blog.csdn.net/weixin_39085822/article/details/106879459]
 
-gojs [http://www.gojs.net/latest/index.html]
+gojs [http://www.gojs.net/latest/index.html] 闭源收费的图标库
 
 JointJS是一个开源的、基于JavaScript的图表库，可以用来创建静态图表、完全可交互的图表、 WEB在线流程图、应用程序 [https://www.jointjs.com/] 
 
