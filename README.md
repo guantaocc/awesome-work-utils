@@ -19,6 +19,7 @@ butterfly-dag: 阿里巴巴小蝴蝶canvas流程图组件
 
 ## 正则表达式
 common-regex [https://github.com/cdoco/common-regex]: 项目常用正则
+any-rule [https://github.com/any86/any-rule]: 常见正则表达式vscode插件
 
 
 ## 图表
