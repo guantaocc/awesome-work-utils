@@ -19,6 +19,12 @@ pubsub-js: 发布订阅
 butterfly-dag: 阿里巴巴小蝴蝶canvas流程图组件 
 
 
+### 甘特图(gant)
+
+开源甘特图库: https://github.com/frappe/gantt
+甘特图vue示例: 
+
+
 ### 即时通信: 
 腾讯SDK: https://github.com/TencentCloud/TIMSDK
 
