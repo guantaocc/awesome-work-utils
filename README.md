@@ -7,7 +7,9 @@ vue-virtual-table[https://github.com/waningflow/vue-virtual-table]:  vue虚拟�
 formily: 阿里巴巴开源的超级表单设计方案 
 
 
-## 相关库
+## 相关业务开发库
+
+### 通用
 vue-cropper:  图片裁剪库 
 
 lodash/underscore: 常见工具函数 
@@ -15,6 +17,18 @@ lodash/underscore: 常见工具函数
 pubsub-js: 发布订阅
 
 butterfly-dag: 阿里巴巴小蝴蝶canvas流程图组件 
+
+
+### 即时通信: 
+腾讯SDK: https://github.com/TencentCloud/TIMSDK
+
+
+### Canvas:
+Vue生成海报图: https://github.com/sunniejs/vue-canvas-poster
+
+
+### 其他: 小程序业务营销组件:
+红包雨、抽奖:  https://github.com/sunniejs/sol-weapp
 
 
 ## 正则表达式
