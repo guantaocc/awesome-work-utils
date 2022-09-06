@@ -74,6 +74,8 @@ mocker-api[https://github.com/jaywcjlove/mocker-api]: webpack模拟api工具
 
 滚动跑马灯组件[https://www.npmjs.com/package/vue3-marquee]: vue3-marquee  
 
+无限无缝滚动，适合大屏滚动[https://github.com/chenxuan0000/vue-seamless-scroll]: vue-seamless-scroll
+
 ## 流程图
 jsPlumb [https://blog.csdn.net/weixin_39085822/article/details/106879459]
 
