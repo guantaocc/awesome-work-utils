@@ -6,6 +6,8 @@ vue-virtual-table[https://github.com/waningflow/vue-virtual-table]:  vue虚拟�
 
 formily: 阿里巴巴开源的超级表单设计方案 
 
+vue-color: 谷歌颜色选择器
+
 
 ## 相关业务开发库
 
