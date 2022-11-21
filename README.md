@@ -94,3 +94,8 @@ mxGraph [http://jgraph.github.io/mxgraph/] ：mxGraph是一个js绘图组件，�
 
 GG-Editor [https://g6.antv.vision/] ：GG-Editor是基于 G6 和 React 的可视化图编辑器，G6 是一个图可视化引擎。它提供了图的绘制、布局、分析、交互、动画等图可视化的基础能力
 
+
+
+## 补充实用node库
+
+检测IE浏览器: is-iexplorer [https://www.npmjs.com/package/is-iexplorer]
