@@ -14,22 +14,21 @@ vue-color: 谷歌颜色选择器
 ### 通用
 vue-cropper:  图片裁剪库 
 
-lodash/underscore: 常见工具函数 
+lodash/underscore: 常见工具函数库
 
-pubsub-js: 发布订阅
+pubsub-js: 发布订阅库
 
 butterfly-dag: 阿里巴巴小蝴蝶canvas流程图组件 
 
 
 ### 地图(Map)示例和开发
 gcoord: 地理坐标系转换 wgs-64
-echarts地图图表参考系: https://madeapie.com/#/chartInfo/xMpGBbTEKU 
+echarts地图图表参考: https://madeapie.com/#/chartInfo/xMpGBbTEKU 
 
 
 ### 甘特图(gant)
 
-开源甘特图库: https://github.com/frappe/gantt
-甘特图vue示例: 
+开源甘特图库: https://github.com/frappe/gantt 
 
 
 ### 即时通信: 
@@ -57,6 +56,7 @@ echarts: Apache开源图表项目
 
 highcharts: 有基于3D版本的高性能图表库
 
+
 ## 富文本编辑器
 
 vue-quill-editor: quill富文本
@@ -70,7 +70,7 @@ animate.js: 纯css动画库
 
 volocity.js: js动画库
 
-pixi.js: 
+pixi.js: 制作活动页面使用
 
 create.js: 简单动画创建库
 
@@ -82,6 +82,7 @@ mocker-api[https://github.com/jaywcjlove/mocker-api]: webpack模拟api工具
 滚动跑马灯组件[https://www.npmjs.com/package/vue3-marquee]: vue3-marquee  
 
 无限无缝滚动，适合大屏滚动[https://github.com/chenxuan0000/vue-seamless-scroll]: vue-seamless-scroll
+
 
 ## 流程图
 jsPlumb [https://blog.csdn.net/weixin_39085822/article/details/106879459]
@@ -99,3 +100,11 @@ GG-Editor [https://g6.antv.vision/] ：GG-Editor是基于 G6 和 React 的可视
 ## 补充实用node库
 
 检测IE浏览器: is-iexplorer [https://www.npmjs.com/package/is-iexplorer]
+access数据库工具：mdb-tools: [https://github.com/el3um4s/mdbtools]
+检测端口号：detect-port-alt: [npm搜索]
+
+
+## 维护地址
+[https://github.com/guantaocc/awesome-work-utils/edit/master/README.md]
+
+
